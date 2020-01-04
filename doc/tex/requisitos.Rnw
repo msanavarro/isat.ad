@@ -1,0 +1,5 @@
+Para que el programa se ejecute correctamente, será necesario que el equipo en el cual se instale cuente con lo siguiente:
+\begin{enumerate}
+    \item Windows XP o posterior
+    \item \verb|Python 3.x|
+\end{enumerate}

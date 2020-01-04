@@ -1,0 +1,1 @@
+Una vez que se cumplan los requisitos el programa se instala ejecutando el \verb|ASDFG.exe|

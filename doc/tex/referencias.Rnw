@@ -1,0 +1,13 @@
+\begin{enumerate}
+    \item Acceso remoto a un \emph{AD DS} en una máquina virtual (Virtualbox): \\
+        \url{https://www.youtube.com/watch?v=puIaRzZEwyY&t=189s}
+    \item Librería de \verb|Python| para administración del Directorio Actiuvo \verb|pyad|: \\
+        \url{https://zakird.github.io/pyad/}
+    \item Librería de \verb|Python| para hacer interfaces gráficas \verb|tkinter|: \\
+        \url{https://docs.python.org/2/library/tkinter.html} \\
+        \url{https://www.youtube.com/watch?v=YXPyB4XeYLA}
+    \item Librería de \verb|Python| para hacer logs \verb|logging|: \\
+        \url{https://docs.python.org/2/library/logging.html}
+    \item Conversión de una aplicación de \verb|Python .py| a un ejecutable \verb|.exe|
+        \url{https://www.youtube.com/watch?v=UZX5kH72Yx4}
+\end{enumerate}

@@ -1,0 +1,28 @@
+Este es un programa que da acceso mediante una interfaz gráfica a las funciones de administración de un Directorio Activo en un servidor remoto. \\
+El programa está escrito en \verb|Python 3| y usa las siguientes librerías:
+\begin{enumerate}
+    \item \verb|logging| para los logs.
+    \item \verb|pyad| para la comunicación con el Directorio Activo.
+    \item \verb|tkinter| para la interfaz gráfica.
+\end{enumerate}
+
+La estructura del directorio en el cuál se trabaja el desarrollo del programa es la siguiente:
+\begin{figure}[H]
+\centering
+\framebox[\textwidth]{%
+\begin{minipage}{0.9\textwidth}
+\dirtree{%
+.1 isat.ad.
+.2 doc\DTcomment{Directorio en el que se escribe el presente documento}.
+.3 tex.
+.3 R.
+.3 img.
+.2 log\DTcomment{Directorio donde se encuentran los logs}.
+.2 src\DTcomment{Directorio donde se encuentra el código fuente}.
+.3 GUI.
+.3 nucleo.
+}
+\end{minipage}
+}
+\caption{Estructura del directorio de trabajo}
+\end{figure}

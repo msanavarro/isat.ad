@@ -1,0 +1,28 @@
+\documentclass{itam}
+\usepackage{mystyle}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\title{Interfaz remota para la administración de usuarios de un Directorio Activo}
+\author{Manuel Sarmiento Navarro}
+\maketitle
+
+\section{Introducción}
+\SweaveInput{tex/intro.Rnw}
+
+\section{Requisitos}
+\SweaveInput{tex/requisitos.Rnw}
+
+\section{Instalación}
+\SweaveInput{tex/instalacion.Rnw}
+
+\section{Instrucciones de uso}
+\SweaveInput{tex/instrucciones.Rnw}
+
+\section{Descripción del código}
+\SweaveInput{tex/descripcion.Rnw}
+
+\section{Referencias}
+\SweaveInput{tex/referencias.Rnw}
+
+\end{document}

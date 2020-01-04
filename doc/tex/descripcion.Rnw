@@ -1,0 +1,4 @@
+\subsection{nucleo}
+\lstinputlisting[language=Python, firstline=10, lastline=28]{../src/nucleo/funcionesAD.py}
+
+\subsection{GUI}
